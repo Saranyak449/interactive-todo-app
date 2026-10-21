@@ -3,7 +3,7 @@
 A modern, responsive, and feature-rich productivity dashboard application built with Vanilla JavaScript, HTML5, and CSS3. Developed as part of the Frontend Development Internship task.
 
 ## 🚀 Live Demo
-* **Live Website URL:** [View Live App](https://saranyak449.github.io/interactive-todo-app/) *(Replace with your GitHub Pages link)*
+* **Live Website URL:** [View Live App](https://saranyak449.github.io/interactive-todo-app/) 
 
 ## ✨ Features
 * **Modern Dashboard UI:** Clean, light-themed productivity design featuring professional indigo and teal accent styling, rounded cards, and smooth transitions.
@@ -20,7 +20,3 @@ A modern, responsive, and feature-rich productivity dashboard application built 
 * **JavaScript (ES6+):** DOM manipulation, event handling, state management, and LocalStorage API.
 * **Development Tool:** Visual Studio Code with Live Server extension.
 
-## 📦 Local Setup & Execution
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/interactive-todo-app.git](https://github.com/your-username/interactive-todo-app.git)
